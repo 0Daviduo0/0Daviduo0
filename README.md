@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **https://media.tenor.com/SLYXjL-4cxcAAAAC/hamborgor.gif**
 
-h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/davide piroddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davide piroddi" height="30" width="40" /></a>
 <a href="https://instagram.com/_daviduo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_daviduo_" height="30" width="40" /></a>
