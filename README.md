@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi everyone, I'm Davide, a Full Stack Web Developer based in Sardinia, Italy🤌🏼<br><br>💼 Currentily working for UrbisMap | Python - Django<br>🌱 Learning Unity <br>✏️ Mostly Frontend developer<br>
+Hi everyone, I'm Davide, a Full Stack Web Developer based in Sardinia, Italy🤌🏼<br><br>💼 Currentily working for UrbisMap | Typescript - Vuejs / Python - Django <br>🌱 Learning Unity <br>✏️ Mostly Frontend developer<br>
 
 
 ## 🌐 Socials:
