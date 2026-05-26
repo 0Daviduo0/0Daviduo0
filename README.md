@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi everyone, I'm Davide, a Full Stack Web Developer based in Sardinia, Italy🤌🏼<br>
 <br>💼 Currentily working for UrbisMap | Typescript - Vuejs / Python - Django <br>
-<br>🌱 Learning ![Unity](https://img.shields.io/badge/Unity-%2335495e.svg?style=for-the-badge&logo=unity&logoColor=%fff)  
 <br>✏️ Mostly Frontend developer<br>
 
 
